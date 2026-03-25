@@ -65,24 +65,24 @@ cv:
         location: Imzouren, Morocco
         start_date: 2020
         end_date: 2021
-
-    Publications:
-      - title: Performance enhancement energy harvesting using a Van der Pol circuit
-        publisher: Mechanics Based Design of Structures and Machines
-        date: 2025
-        url: https://www.tandfonline.com/doi/abs/10.1080/15397734.2024.2411267
-
-      - title: Energy harvesting from simultaneous galloping and vortex-induced vibrations
-        publisher: Journal of Vibration Testing and System Dynamics
-        date: 2025
-        url: https://www.lhscientificpublishing.com/journals/articles/DOI-10.5890-JVTSD.2025.06.005.aspx
         
-      - title: Energy harvesting using nonlinear resonant circuits
-        publisher: Nonlinear Dynamics
-        date: 2025
-        url: https://link.springer.com/article/10.1007/s11071-025-10981-z
+Publications:
+  - title: Performance enhancement energy harvesting using a Van der Pol circuit
+    publisher: Mechanics Based Design of Structures and Machines
+    date: 2025
+    url: https://www.tandfonline.com/doi/abs/10.1080/15397734.2024.2411267
 
-    Conferences:
+  - title: Energy harvesting from simultaneous galloping and vortex-induced vibrations
+    publisher: Journal of Vibration Testing and System Dynamics
+    date: 2025
+    url: https://www.lhscientificpublishing.com/journals/articles/DOI-10.5890-JVTSD.2025.06.005.aspx
+
+  - title: Energy harvesting using nonlinear resonant circuits
+    publisher: Nonlinear Dynamics
+    date: 2025
+    url: https://link.springer.com/article/10.1007/s11071-025-10981-z
+    
+Conferences:
   - name: International Conference on Structural Nonlinear Dynamics
     location: Marrakech, Morocco
     date: 2023
@@ -94,8 +94,9 @@ cv:
     date: 2024
     highlights:
       - 2DOF vibration-based energy harvesting systems
+  
 
-    Skills:
+Skills:
       - name: Programming
         keywords:
           - MATLAB
@@ -111,7 +112,7 @@ cv:
           - Numerical Simulation
           - Modeling
 
-    Languages:
+Languages:
       - name: Arabic
         summary: Native
 
@@ -121,7 +122,7 @@ cv:
       - name: English
         summary: Professional
 
-    Certifications:
+Certifications:
       - name: Web of Science Academy (Clarivate)
         date: 2024
 
@@ -131,7 +132,7 @@ cv:
       - name: EF SET English Certificate
         date: 2022
 
-    Projects:
+Projects:
       - name: Nonlinear ODE Solver (Maple)
         start_date: 2023
         end_date: 2025
@@ -139,7 +140,7 @@ cv:
           Development of computational tools for solving nonlinear vibration systems
           using perturbation methods.
 
-    Interests:
+Interests:
       - name: Research Topics
         keywords:
           - Nonlinear Dynamics
