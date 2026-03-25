@@ -37,3 +37,11 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+.badge {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px;
+  border-radius: 20px;
+  background-color: #f3f3f3;
+  font-size: 0.9em;
+}
