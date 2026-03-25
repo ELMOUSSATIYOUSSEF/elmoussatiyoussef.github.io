@@ -83,17 +83,17 @@ cv:
         url: https://link.springer.com/article/10.1007/s11071-025-10981-z
 
     Conferences:
-      - name: International Conference on Structural Nonlinear Dynamics
-        location: Marrakech, Morocco
-        date: 2023
-        highlights:
-        - Energy harvesting in combined galloping and vortex systems
+  - name: International Conference on Structural Nonlinear Dynamics
+    location: Marrakech, Morocco
+    date: 2023
+    highlights:
+      - Energy harvesting in combined galloping and vortex systems
 
-      - name: ICAMEM 2024
-        location: Sousse, Tunisia
-        date: 2024
-        highlights:
-        - 2DOF vibration-based energy harvesting systems
+  - name: ICAMEM 2024
+    location: Sousse, Tunisia
+    date: 2024
+    highlights:
+      - 2DOF vibration-based energy harvesting systems
 
     Skills:
       - name: Programming
